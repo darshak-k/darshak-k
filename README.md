@@ -5,9 +5,9 @@
 - 👀 I’m interested in computer science 👨‍💻, Games 🎮, and Cricket🏏
 - 📫 Feel free to reach out at: darshak.kachchhi@gmail.com
 
-<a href="https://github.com/darshak-k">
-  <img alt="Profile Views" src="https://img.shields.io/github/followers" />
-</a>
+
+![](https://komarev.com/ghpvc/?username=darshak-k&label=PROFILE+VIEWS)
+
 
 # 💻 Tech Stack:
 
