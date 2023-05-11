@@ -52,7 +52,7 @@
   <img align="center" alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </a>
   &nbsp;
-<a href="https://www.hackerearth.com/@darshak12" target="_blank">
-  <img align="center" alt="Upwork" src="https://www.upwork.com/freelancers/~016ae92c42bc026d79?viewMode=1" />
+<a href="https://www.upwork.com/freelancers/~016ae92c42bc026d79?viewMode=1" target="_blank">
+  <img align="center" alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 </p>
