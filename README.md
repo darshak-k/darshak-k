@@ -28,19 +28,19 @@
 </p>
 <p align="center">
 <a href="mailto:darshak.kachchhi@gmail.com" target="_blank">
-  <img align="center" alt="Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+  <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/darshak-k/" target="_blank">
-  <img align="center" alt="Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/darshak_k/" target="_blank">
-  <img align="center" alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="center" alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/user0095t/" target="_blank">
-  <img align="center" alt="Hackerearth" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img align="center" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 &nbsp;
 <a href="https://www.hackerearth.com/@darshak12" target="_blank">
