@@ -37,8 +37,7 @@
 &nbsp;
 <a href="https://www.instagram.com/darshak_k/" target="_blank">
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  
+</a> 
 &nbsp;
 <a href="https://www.github.com/darshak-k" target="_blank">
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
