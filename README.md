@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS student located in Montreal, QC</h3>
 
 - 📚 I'm currently a student at Concordia for Master of Applied Computer Science
-- 👀 I’m interested in computer science 👨‍💻, , and Cricket🏏
+- 👀 I’m interested in computer science 👨‍💻, Games 🎮, and Cricket🏏
 - 📫 Feel free to reach out at: darshak.kachchhi@gmail.com
 
 <a href="https://github.com/imdeep2905?tab=followers">
@@ -39,7 +39,11 @@
   <img align="center" alt="Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 &nbsp;
+<a href="https://leetcode.com/user0095t/" target="_blank">
+  <img align="center" alt="Hackerearth" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+&nbsp;
 <a href="https://www.hackerearth.com/@darshak12" target="_blank">
-  <img align="center" alt="Hackerearth" />
+  <img align="center" alt="Hackerearth" src="https://en.wikipedia.org/wiki/HackerEarth#/media/File:HackerEarth_logo.png" />
 </a>
 </p>
