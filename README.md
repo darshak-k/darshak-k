@@ -5,8 +5,8 @@
 - 👀 I’m interested in computer science 👨‍💻, Games 🎮, and Cricket🏏
 - 📫 Feel free to reach out at: darshak.kachchhi@gmail.com
 
-<a href="https://github.com/imdeep2905?tab=followers">
-  <img alt="Deep's Profile Views" src="https://img.shields.io/github/followers/imdeep2905.svg?style=flat&label=Follow" />
+<a href="https://github.com/darshak-k">
+  <img alt="Profile Views" src="https://img.shields.io/github/followers" />
 </a>
 
 # 💻 Tech Stack:
