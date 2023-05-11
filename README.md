@@ -44,6 +44,6 @@
 </a>
 &nbsp;
 <a href="https://www.hackerearth.com/@darshak12" target="_blank">
-  <img align="center" alt="Hackerearth" src="https://en.wikipedia.org/wiki/HackerEarth#/media/File:HackerEarth_logo.png" />
+  <img align="center" alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </a>
 </p>
