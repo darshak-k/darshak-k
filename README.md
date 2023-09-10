@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshak Kachchhi</h1>
-<h3 align="center">A passionate CS student located in Montreal, QC</h3>
+<h3 align="center">A passionate Softwrae Deveploper located in Montreal, QC</h3>
 
-- 📚 I'm currently a student at Concordia for Master of Applied Computer Science
+- 📚 I recently graduated in Master of Applied Computer Science from Concordia University
 - 👀 I’m interested in computer science 👨‍💻, Games 🎮, and Cricket🏏
 - 📫 Feel free to reach out at: darshak.kachchhi@gmail.com
 
