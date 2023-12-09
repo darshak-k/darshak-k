@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darshak Kachchhi</h1>
-<h3 align="center">A passionate Softwrae Deveploper located in Montreal, QC</h3>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/darshak-k/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 - 📚 I recently graduated in Master of Applied Computer Science from Concordia University
 - 👀 I’m interested in computer science 👨‍💻, Games 🎮, and Cricket🏏
