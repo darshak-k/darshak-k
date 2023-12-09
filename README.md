@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Darshak Kachchhi</h1>
 <p align='center'>
-  
-  <a href="https://www.linkedin.com/in/darshak-k/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  <a href="mailto:darshak.kachchhi@gmail.com" target="_blank">
+    <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/darshak-k/" target="_blank">
+    <img align="center" alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   
 </p>
 
@@ -41,14 +44,7 @@
   <h2 align="center"> Connect with me :handshake:</h2>
 </p>
 <p align="center">
-<a href="mailto:darshak.kachchhi@gmail.com" target="_blank">
-  <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/darshak-k/" target="_blank">
-  <img align="center" alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+
 <a href="https://www.instagram.com/darshak_k/" target="_blank">
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
