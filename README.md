@@ -14,7 +14,7 @@
 </p>
 
 - 📚 I recently graduated in Master of Applied Computer Science from Concordia University
-- 👀 I’m interested in computer science 👨‍💻, Games 🎮, and Cricket🏏
+- 👀 I’m interested in computer science 👨‍💻, Games 🎮, Tutor, and Cricket🏏
 - 📫 Feel free to reach out at: darshak.kachchhi@gmail.com
 
 
