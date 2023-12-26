@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm <a href="https://darshak.vercel.app/">Darshak Kachchhi</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://darshak.vercel.app/"  target="_blank">Darshak Kachchhi</a></h1>
 <p align='center'>
   <a href="mailto:darshak.kachchhi@gmail.com" target="_blank">
     <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -13,7 +13,7 @@
   
 </p>
 
-- 📚 I recently graduated in Master of Applied Computer Science from Concordia University
+- 📚 I recently graduated with a Master of Applied Computer Science from Concordia University
 - 👀 I’m interested in computer science 👨‍💻, Games 🎮, Tutor, and Cricket🏏
 - 📫 Feel free to reach out at: darshak.kachchhi@gmail.com
 
