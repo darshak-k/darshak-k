@@ -12,6 +12,7 @@
 
   
 </p>
+
 - 👨‍💻 I am a Senior Application Research Developer 
 - 📚 I graduated with a Master of Applied Computer Science from Concordia University
 - 👀 I’m interested in computer science 👨‍💻, Games 🎮, Tutor, and Cricket🏏
